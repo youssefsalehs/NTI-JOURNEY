@@ -32,5 +32,20 @@ This repository contains all the projects I built during the program, showcasing
   
 - **Live Demo:** [View Live](https://youssefsalehs.github.io/B-D-Template/)
 
+### 2. Fruit Shop
+
+- **Description:**
+  A fully responsive fruit shop website template showcasing fresh products with a modern and colorful design. Built using HTML, CSS, and Bootstrap, it focuses on clean UI, easy navigation, and mobile-friendly   layouts.
+  
+- **Tech Stack:**  
+  HTML, CSS, Bootstrap 5, JavaScript
+
+- **Highlights:**  
+  Responsive layout, smooth UI interactions, and design accuracy.
+
+- **GitHub Repo:** [Fruit Shop on GitHub](https://github.com/youssefsalehs/fruit-shop)
+  
+- **Live Demo:** [View Live](https://youssefsalehs.github.io/fruit-shop/)
+
 ---
 
