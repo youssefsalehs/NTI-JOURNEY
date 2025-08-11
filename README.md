@@ -59,16 +59,16 @@ This repository contains all the projects I built during the program, showcasing
 - **Tech Stack:**  
   HTML, CSS, Bootstrap 5, JavaScript (XMLHttpRequest, LocalStorage API)
   
-**Highlights:**  
-- Product catalog dynamically loaded from Fake Store API  
-- Add-to-cart with instant visual confirmation  
-- Adjustable item quantities with automatic price recalculation  
-- Remove items from the cart with live updates  
-- Persistent cart storage using LocalStorage  
-- Simple, responsive, mobile-friendly design
+- **Highlights:**  
+ - Product catalog dynamically loaded from Fake Store API  
+ - Add-to-cart with instant visual confirmation  
+ - Adjustable item quantities with automatic price recalculation  
+ - Remove items from the cart with live updates  
+ - Persistent cart storage using LocalStorage  
+ - Simple, responsive, mobile-friendly design
 
-**GitHub Repo:** [NTI eCommerce on GitHub](https://github.com/youssefsalehs/NTI-eCommerce)  
+- **GitHub Repo:** [NTI eCommerce on GitHub](https://github.com/youssefsalehs/NTI-eCommerce)  
 
-**Live Demo:** [View Live](https://youssefsalehs.github.io/NTI-eCommerce/index.html)
+- **Live Demo:** [View Live](https://youssefsalehs.github.io/NTI-eCommerce/index.html)
 
 ---
