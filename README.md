@@ -32,6 +32,8 @@ This repository contains all the projects I built during the program, showcasing
   
 - **Live Demo:** [View Live](https://youssefsalehs.github.io/B-D-Template/)
 
+---
+
 ### 2. Fruit Shop
 
 - **Description:**
